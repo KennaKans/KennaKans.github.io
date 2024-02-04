@@ -6,4 +6,4 @@ Languages: HTML & CSS.
 
 Tools: Visual Studio Code & Git. 
 
-- Avaliable at: https://kennakans.github.io
+- Avaliable at: https://kennakans.github.io/lobo/
